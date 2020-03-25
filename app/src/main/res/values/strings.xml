@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NAV</string>
+    <string name="logIcon">TODO</string>
+    <string name="name">Name</string>
+    <string name="username">userName</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+</resources>
